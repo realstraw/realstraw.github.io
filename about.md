@@ -10,5 +10,3 @@ everything related to data science.
 
 I believe in lead by example, fast and frequent release, functional
 programming, Scala, and StarCraft!
-
-

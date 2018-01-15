@@ -16,7 +16,7 @@
 title: Random Acess Nonsense
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My random dump of thoughts and ideas to display my ignorance, bad writing
+  My dump of random thoughts and ideas to display my ignorance, bad writing
   and the quest of being less so.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
