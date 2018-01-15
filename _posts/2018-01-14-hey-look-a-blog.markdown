@@ -10,7 +10,7 @@ start a blog and show that to the world.
 My main objective is to write and publish short posts frequently. It is
 inspired by the quote:
 
-> If you generate enough bad ideas, a few good ones tend to show up
+> If you generate enough bad ideas, a few good ones tend to show up.
 >
 > -- Seth Godin
 
