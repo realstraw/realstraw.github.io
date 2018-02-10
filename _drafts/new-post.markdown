@@ -9,14 +9,16 @@ title: "Ship it"
 > likely to happen." -- Leonard Bernstein
 
 I heard this quote from Seth Godin's _Leap First: Creating Work That Matters_.
-He uses this quote in the context of creating art. This obviously applies many
-other things as well.
 
-This is especially true in software engineering. I still vividly remembers the
-following figure that I first saw during college days, in one of the
-engineering courses. It shows one of the pitfalls that even the most careful
-plans does not produce perfect solutions, and the industry now has moved on
-from traditional waterfall software development life cycle into the more agile
-approach.
+He uses this quote in the context of creating art. This obviously applies to
+life in general. This is especially true in software engineering.
+
+I still vividly remembers the following figure that I first saw during college
+days, in one of the engineering courses. It shows one of the pitfalls that even
+the most careful plans does not produce perfect solutions. 
 
 ![Engineering Projects]({{"/assets/attachments/tree-swing-project-management-large.png"}})
+
+The industry now has moved on from traditional waterfall software development
+life cycle into the more agile approach.
+
