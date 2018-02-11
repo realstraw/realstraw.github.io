@@ -12,22 +12,23 @@ date: 2018-02-11
 I heard this quote from Seth Godin's _Leap First: Creating Work That Matters_,
 and I cannot agree more. It is especially true in software engineering.
 
-I still vividly remembers the following figure that I first saw during my
+I still vividly remember the following figure that I first saw during my
 college days, in one of the engineering courses. It shows one of the pitfalls
-that even the most careful plans does not produce perfect solutions.
+that even the most careful plans do not produce perfect solutions.
 
 ![Engineering Projects]({{"/assets/attachments/tree-swing-project-management-large.png"}}){:width="600px" .center-image}
 
 The industry now has moved on from traditional waterfall software development
-life cycle into the more agile approach. However, over planing and over
+life cycle into the more agile approach. However, over planning and over
 engineering is still common practice, and resulting opportunity lost, legacy
-software, and outdated infrastructure, hard to maintain codebase etc.
+software, and outdated infrastructure, hard to maintain codebase, etc.
 
-Frequent shipping new code always beats careful planning. This of course means
-frequent failure, and brings additional challenge to ensure feature and
-platform robustness.
+Frequent shipping new code always beats careful planning. It, of course, means
+frequent failures need to be easily mitigated. It also brings additional
+challenges to ensure feature and platform robustness.
 
 Engineering practices and infrastructures that geared towards fast and frequent
-deployment always win. Over planning will almost always leads to loss of
+deployment always win. Only by constantly improving the work, release, and
+test, can achieve excellence. Overplanning will almost always lead to loss of
 opportunities, maintenance nightmare, and greater risks when improvement is
 inevitable.
