@@ -17,7 +17,7 @@ I still vividly remembers the following figure that I first saw during my
 college days, in one of the engineering courses. It shows one of the pitfalls
 that even the most careful plans does not produce perfect solutions.
 
-![Engineering Projects]({{"/assets/attachments/tree-swing-project-management-large.png"}})
+![Engineering Projects]({{"/assets/attachments/tree-swing-project-management-large.png"}}){:width="600px" .center-image}
 
 The industry now has moved on from traditional waterfall software development
 life cycle into the more agile approach. However, over planing and over
@@ -26,4 +26,6 @@ software, and infrastructure, hard to maintain codebase etc.
 
 Frequent shipping new code always beats careful planning, this of course means
 frequent failure, and brings additional challenge to ensure feature and
-platform robustness. How to rollback?
+platform robustness. How to rollback? And developement geared towards fast and
+frequent deployment always win. Over planning will mostly miss opportunities
+and results in even larger failures that may not be easy to recover from.
