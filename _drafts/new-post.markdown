@@ -13,12 +13,17 @@ I heard this quote from Seth Godin's _Leap First: Creating Work That Matters_.
 He uses this quote in the context of creating art. This obviously applies to
 life in general. This is especially true in software engineering.
 
-I still vividly remembers the following figure that I first saw during college
-days, in one of the engineering courses. It shows one of the pitfalls that even
-the most careful plans does not produce perfect solutions. 
+I still vividly remembers the following figure that I first saw during my
+college days, in one of the engineering courses. It shows one of the pitfalls
+that even the most careful plans does not produce perfect solutions.
 
 ![Engineering Projects]({{"/assets/attachments/tree-swing-project-management-large.png"}})
 
 The industry now has moved on from traditional waterfall software development
-life cycle into the more agile approach.
+life cycle into the more agile approach. However, over planing and over
+engineering is still common practice, and resulting opportunity lost, legacy
+software, and infrastructure, hard to maintain codebase etc.
 
+Frequent shipping new code always beats careful planning, this of course means
+frequent failure, and brings additional challenge to ensure feature and
+platform robustness. How to rollback?
