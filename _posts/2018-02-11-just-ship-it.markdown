@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Just ship it"
+date: 2018-02-11
 ---
 
 > "Do work worth doing. Shipping this work into the world is the way to live
