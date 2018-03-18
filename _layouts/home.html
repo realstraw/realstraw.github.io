@@ -18,7 +18,7 @@ layout: default
         <span class="post-meta">{{ latest_post.date | date: date_format }}</span>
 
         <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <a class="post-link" href="{{ latest_post.url | relative_url }}">{{ latest_post.title | escape }}</a>
         </h3>
 
         <div class="post-content">
