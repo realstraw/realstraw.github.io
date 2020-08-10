@@ -22,5 +22,3 @@ This is not a new concept. Theoratic physists and experimental physists has
 been working together to produce extrodinary resutls throughout history. For
 example, John Bardeen and Walter Brattain working together to produce
 transistor.
-
-
