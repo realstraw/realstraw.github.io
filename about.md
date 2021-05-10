@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I spend most of my time tackling data science problems at large scale, that
-include designing the systems, building algorithms, and writing software for
-everything related to data science.
-
-I believe in lead by example, fast and frequent release, functional
-programming, Scala, and StarCraft!
+> Do work worth doing. Shipping this work into the world is the way to live your
+> life. It is the safest future we have. If you're trying to invent a safe future
+> that is sure to work, you almost certainly ignoring the future that's likely to
+> happen.
+>
+> -- Leonard Bernstein
