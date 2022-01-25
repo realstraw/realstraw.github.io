@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5-Point Friday (2021-12-31)"
+title: "5-Bullet Friday (2021-12-31)"
 date: 2021-12-31
 ---
 
