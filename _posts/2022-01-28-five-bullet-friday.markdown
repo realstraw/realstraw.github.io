@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5-Bullet Friday"
+title: "5-Bullet Friday (2022-01-28)"
 date: 2022-01-28
 ---
 
