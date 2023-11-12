@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Don't just do something, write them down"
+date: 2023-11-11
 ---
 
 **Don't just do something, write them down**
@@ -16,7 +17,7 @@ empty my head is. Here is my attempt:
 * "Don't just do something, stand there" is a quote that I got from a lecture
     recently. The lecturer was talking about how leaders are generally biased
     towards making distruptive moves over observe and delegate. Have been
-    witness it a lot lately, and also need to remind myself of not doing the
-    same.
+    witness it a lot of counter examples lately, and also need to remind myself
+    to avoid doing the same.
 
 Ok, that's pretty much it so far.
