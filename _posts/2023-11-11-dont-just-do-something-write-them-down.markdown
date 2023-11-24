@@ -4,8 +4,6 @@ title: "Don't just do something, write them down"
 date: 2023-11-11
 ---
 
-**Don't just do something, write them down**
-
 It's only when I am sitting down and trying to write something, I realize how
 empty my head is. Here is my attempt:
 
