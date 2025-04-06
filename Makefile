@@ -1,6 +1,6 @@
 .PHONY: setup
 setup:
-	rbenv install 3.1.4
+	rbenv install 3.1.6
 
 .PHONY: build
 build:
@@ -8,4 +8,4 @@ build:
 
 .PHONY: run
 run:
-	bundle exec jekyll serve
+	bundle exec jekyll serve --drafts
