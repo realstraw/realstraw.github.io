@@ -14,7 +14,6 @@ $nord6:  #ECEFF4;
 $nord8:  #88C0D0; // Frost
 $nord9:  #81A1C1;
 $nord10: #5E81AC;
-$nord15: #B48EAD; // Aurora
 
 $text-color:       $nord0;
 $background-color: #fff;
@@ -29,7 +28,7 @@ a {
   color: $nord10;
 
   &:visited {
-    color: $nord15;
+    color: $nord3;
   }
 
   &:hover {
