@@ -16,7 +16,7 @@ I still vividly remember the following figure that I first saw during my
 college days, in one of the engineering courses. It shows one of the pitfalls
 that even the most careful plans do not produce perfect solutions.
 
-![Engineering Projects]({{"/assets/attachments/tree-swing-project-management-large.png"}}){:width="600px" .center-image}
+![Engineering Projects]({{"/assets/attachments/tree-swing-project-management-large.png"}}){:width="600px" style="margin: 0 auto; display: block;"}
 
 The industry now has moved on from traditional waterfall software development
 life cycle into the more agile approach. However, over planning and over
