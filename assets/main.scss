@@ -3,4 +3,56 @@
 
 $base-font-family: "Inconsolata", monospace;
 
+// Nord palette
+$nord0:  #2E3440; // Polar Night
+$nord1:  #3B4252;
+$nord2:  #434C5E;
+$nord3:  #4C566A;
+$nord4:  #D8DEE9; // Snow Storm
+$nord5:  #E5E9F0;
+$nord6:  #ECEFF4;
+$nord8:  #88C0D0; // Frost
+$nord9:  #81A1C1;
+$nord10: #5E81AC;
+
+$text-color:       $nord0;
+$background-color: #fff;
+$brand-color:      $nord10;
+$grey-color:       $nord3;
+$grey-color-light: $nord5;
+$grey-color-dark:  $nord1;
+
 @import "minima";
+
+a {
+  color: $nord10;
+
+  &:visited {
+    color: $nord3;
+  }
+
+  &:hover {
+    color: $nord8;
+  }
+}
+
+.site-header {
+  border-top: 5px solid $nord10;
+  border-bottom: 1px solid $nord4;
+}
+
+.site-title {
+  &, &:visited {
+    color: $nord0;
+  }
+}
+
+code, pre {
+  background-color: $nord5;
+  border: 1px solid $nord4;
+}
+
+blockquote {
+  border-left: 4px solid $nord9;
+  color: $nord3;
+}
