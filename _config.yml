@@ -26,6 +26,9 @@ github_username:  realstraw
 # Build settings
 markdown: kramdown
 theme: minima
+header_pages:
+  - quotes.md
+  - about.md
 plugins:
   - jekyll-feed
 
