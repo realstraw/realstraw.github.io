@@ -6,6 +6,10 @@ setup:
 build:
 	bundle install
 
+.PHONY: update
+update:
+	bundle update
+
 .PHONY: run
 run:
 	bundle exec jekyll serve --drafts
