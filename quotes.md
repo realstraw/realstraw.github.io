@@ -75,6 +75,14 @@ liberating._
 
 . . .
 
+_Generosity is not a loan to repay or a debt to settle. It's a gift to
+appreciate. Yes, you can reciprocate a favor by paying it back. But the best
+way to honor an act of kindness is by paying it forward._
+
+-- Adam Grant, _[No, you don't owe me a favor](https://adamgrant.substack.com/p/no-you-dont-owe-me-a-favor)_
+
+. . .
+
 _You can't hoard life._
 
 -- Oliver Burkeman, _[You can't hoard life](https://ckarchive.com/b/68ueh8hkxrx6lukq88gqmtz7vxkkk)_
@@ -82,6 +90,15 @@ _You can't hoard life._
 . . .
 
 ## 2023
+
+_Man is a thinking reed, but his great works are done when when he is not
+calculating and thinking. ‘Childlikeness’ has to be restored with long years of
+training in the art of self-forgetfulness. When this is attained, man thinks
+yet he does not think._
+
+-- D.T. Suzuki
+
+. . .
 
 _... we can’t be naive. We can’t deny what is obviously true... or that will cause
 us and others we love even more trouble. It’s only delaying the inevitable,
