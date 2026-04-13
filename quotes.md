@@ -26,12 +26,15 @@ can't change it, change the way you think about it. Don't complain._
 
 · · ·
 
-_Now keep looking at this unpleasant situation or person until you realize that
-it isn't they that are causing the negative emotions._
+_How could you go about creating a happy, loving, peaceful world? By learning a
+simple, beautiful, but painful art called the art of looking. This is how you
+do it: Every time you find yourself irritated or angry with someone, the one to
+look at is not that person but yourself. The question to ask is not, 'What's
+wrong with this person?’ but ‘What does this irritation tell me about myself?'_
 
--- Anthony de Mello
+-- Anthony De Mello, _The Way to Love_
 
-· · ·
+. . .
 
 _One cannot help but be in awe when he contemplates the mysteries of eternity,
 of life, of the marvelous structure of reality. ... Don't stop to marvel._
