@@ -174,4 +174,170 @@ care more about their opinion than our own._
 
 . . .
 
+_The worst thing a son of a bitch can do is turn you into a son of a bitch._
 
+-- Frank Oppenheimer
+
+. . .
+
+_Evil and crises do not make all men rise above themselves. Crises only make
+them discover themselves._
+
+-- John Barry, _The Great Influenza_
+
+. . .
+
+_There is no problem so bad you can’t make it worse._
+
+-- Chris Hadfield
+
+. . .
+
+_(Avery) advised, 'Whenever you fall, pick up something'. And he often said,
+'Disappointment is my daily bread. I thrive on it.'_
+
+-- John Barry, _The Great Influenza_
+
+. . .
+
+_Growth for the sake of growth is the ideology of the cancer cell._
+
+-- Edward Abbey, _The Journey Home_
+
+. . .
+
+_No one interested in any truth will torture the data itself, ever. But a
+scientist can — and should — torture an experiment to get data, to get a
+result, especially when investigating a new area._
+
+-- John Barry, _The Great Influenza_
+
+. . .
+
+_A scientist must accept the fact that all his or her work, even beliefs, may
+break apart upon sharp edge of a single laboratory finding... Ultimately a
+scientist has nothing to believe in but the process of inquiry._
+
+-- John Barry, _The Great Influenza_
+
+. . .
+
+_The balance, however, between kill and overkill, response and overresponse, is
+a delicate one. The immune system can behave like a SWAT team that kills the
+hostage along with the hostage taker, or the army that destroys the village to
+save it._
+
+-- John Barry, _The Great Influenza_
+
+. . .
+
+_There was no such grace about influenza in 1918. It killed the young and
+strong. Studies worldwide all found the same thing. Young adults, the
+healthiest and strongest ... Those with the most to live for … were the ones
+who died._
+
+-- John Barry, _The Great Influenza_
+
+. . .
+
+_If you don’t know what port you’re sailing to, no wind is favorable._
+
+-- Seneca
+
+. . .
+
+_All stories are love stories... All men get the things they love. The tragedy
+of some men is not that they are denied, but that they wish they’d loved
+something else._
+
+-- Graham Moore, _The Last Days of Night_
+
+. . .
+
+_My rule is that the right time is always right now._
+
+-- Casey Neistat
+
+. . .
+
+_Plans are worthless, but planning is everything._
+
+-- Eisenhower
+
+. . .
+
+_Read widely with an open mind._
+
+_Read books that challenge you._
+
+_Read books that make you think._
+
+_Read books that put a mirror up to your face._
+
+-- Ryan Holiday, _[You’d Be A Fool To Not Do This](https://dailystoic.com/youd-be-a-fool-to-not-do-this/)_
+
+. . .
+
+_It is extremely hard to discover the truth when you are ruling the world. You
+need to experiment with unproductive paths, explore dead ends, make space for
+doubts and boredom, and allow little seeds of insight to slowly grow and
+blossom. If you cannot afford to waste time, you will never find the truth.
+Great power thus acts like a black hole that warps the very space around it.
+The closer you get to it, the more twisted everything becomes. Each word is
+made extra heavy upon entering your orbit, and each person you see tries to
+flatter you, appease you, or get something from you._
+
+-- Yuval Harari, _21 Lessons for 21st Century_
+
+. . .
+
+_Most people don’t like too many facts,and they certainly don’t like to feel
+stupid._
+
+-- Yuval Harari, _21 Lessons for 21st Century_
+
+. . .
+
+_Questions you cannot answer are usually far better for you than answers you
+cannot question._
+
+-- Yuval Harari, _21 Lessons for 21st Century_
+
+. . .
+
+_Often, strong beliefs are required precisely when the story isn’t true._
+
+-- Yuval Harari, _21 Lessons for 21st Century_
+
+. . .
+
+_Every violent act in the world begins with a violent desire in somebody’s
+mind, which disturbs that person’s own peace and happiness before it disturbs
+the peace and happiness of anyone else._
+
+-- Yuval Harari, _21 Lessons for 21st Century_
+
+. . .
+
+_The things you run from are inside you._
+
+-- Seneca
+
+. . .
+
+_... the mark of science is the willingness to admit failure and try a different
+track. That’s why scientists gradually learn how to grow better crops and make
+better medicines, whereas priests and gurus learn only how to make better
+excuses._
+
+-- Yuval Harari, _21 Lessons for 21st Century_
+
+. . .
+
+## 2021
+
+_We don’t always get what is rightfully ours, even if we’ve earned it. Not
+everything is as clean and straightforward as we think they may be.
+Psychologically, we must prepare ourselves for this to happen._
+
+-- Ryan Holiday, _[Premeditatio Malorum](https://dailystoic.com/premeditatio-malorum/)_
