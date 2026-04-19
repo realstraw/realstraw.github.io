@@ -32,7 +32,7 @@ header_pages:
 plugins:
   - jekyll-feed
 
-google_analytics: UA-5688628-3
+google_analytics: G-2C20BDWZCE
 
 sass:
   quiet_deps: true
