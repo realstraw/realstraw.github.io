@@ -25,6 +25,14 @@ is nothing left to take away._
 
 · · ·
 
+## 2026
+
+_Argue like you’re right and listen like you’re wrong._
+
+-- Adam Grant
+
+· · ·
+
 ## 2025
 
 _What you're supposed to do when you don't like a thing is change it. If you
